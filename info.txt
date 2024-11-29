@@ -1,4 +1,10 @@
+<<<<<<< HEAD
  hi 
 my name is ashok
 iam working as a devops engineer
+=======
+hi 
+my name is vennela tatiparthi
+iam working as a AWS engineer
+>>>>>>> branch1
 thankq
